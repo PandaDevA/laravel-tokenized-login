@@ -26,8 +26,6 @@ Then publish the config file:
 php artisan vendor:publish
 ```
 
-
-
 # Basic usage:
 Basically, this package introduces 2 endpoints, which you can send requests to them.
 
